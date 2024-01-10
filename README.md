@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **LLMs, Generative AI, and Cloud Computing**
 
-- 💬 Ask me about **Python, Scikit-learn**
+- 💬 Ask me anything about **Python and Data Science**
 
-- 📫 How to reach me **alexmakmcw@gmail.com**
+- 📫 Reach me at **alexmakmcw@gmail.com**
 
-- ⚡ Fun fact **I code better with 2 screens than 1 : )**
+- ⚡ Fun fact:  **I code better with 2 screens than 1 : )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

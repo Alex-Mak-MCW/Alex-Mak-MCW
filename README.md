@@ -1,8 +1,7 @@
-# Alex-Mak-MCW
+Hey There! ✌️
 
-🚀 Passionate Machine Learning Enthusiast | MSc in Modeling, Data, and Predictions 🤖
-
-Greetings! I'm Alex Mak, a dedicated and forward-thinking individual currently pursuing a Master of Science in Modeling, Data, and Predictions at the University of Alberta. My professional journey has been marked by a relentless pursuit of knowledge and a passion for leveraging artificial intelligence to solve real-world problems.
+🚀 About me: Passionate Machine Learning Enthusiast | MSc in Modeling, Data, and Predictions 🤖
+I'm Alex Mak, a dedicated and forward-thinking individual currently pursuing a Master of Science in Modeling, Data, and Predictions at the University of Alberta. My professional journey has been marked by a relentless pursuit of knowledge and a passion for leveraging artificial intelligence to solve real-world problems.
 
 🔍 Education: Master of Science in Modeling, Data, and Predictions
 Currently enrolled at the University of Alberta, I am honing my expertise in data science and machine learning. My coursework not only equips me with theoretical knowledge but also provides hands-on experience using Python and R to analyze diverse datasets, implement machine learning algorithms, and develop predictive models.

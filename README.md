@@ -11,9 +11,9 @@
 
 - 💬 Ask me anything about **Python and Data Science**
 
-- 📫 Reach me at **alexmakmcw@gmail.com**
+- ⚡ Fun fact:  **I code more effectively with 2 screens than 1 : )**
 
-- ⚡ Fun fact:  **I code better with 2 screens than 1 : )**
+- 📫 Reach me at **alexmakmcw@gmail.com or https://www.linkedin.com/in/alex-mak-824187247/**
 
 <h3 align="left">Connect with me Here!</h3>
 <p align="left">

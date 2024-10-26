@@ -81,7 +81,7 @@
 🌱 I’m currently learning LLMs, Generative AI, and Cloud Computing<br><br>💬 Ask me anything about Python and Data Science<br><br>⚡ Fun fact: I code more effectively with 2 screens than 1 : )<br><br>📫 Reach me at alexmakmcw@gmail.com or my social media below!
 
 <!-- / https://www.linkedin.com/in/alex-mak-824187247/ -->
-
+<br>
 
 # 🌐 Socials:
 <p align="left">
@@ -90,6 +90,7 @@
 </p>
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-mak-824187247)  -->
+<br>
 
 # 💻 Tech Stack:
 <h3 align="left">Programming Languages:</h3>
@@ -111,11 +112,9 @@
 <h3 align="left">Version Control Systems:</h3>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
 <!-- <h3 align="left">APIs:</h3>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  -->
-
 <h3 align="left">Project Management:</h3>
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
@@ -124,10 +123,12 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
+<!--
 <h3 align="left">Microsoft Suite:</h3>
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
+-->
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alex-Mak-MCW&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>

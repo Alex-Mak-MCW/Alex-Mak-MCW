@@ -72,6 +72,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alex+Mak!;" />
 </h1>
 
+
+
+![Coding](https://preview.redd.it/microsoft-winning-the-ai-war-article-here-v0-cw7o8h6mhojb1.gif?width=480&auto=webp&s=c3a5a6cc0fb39ea33055261bfbfd1f30b17d47ee)
+
+
 # 💫 About Me:
 🌱 I’m currently learning LLMs, Generative AI, and Cloud Computing<br><br>💬 Ask me anything about Python and Data Science<br><br>⚡ Fun fact: I code more effectively with 2 screens than 1 : )<br><br>📫 Reach me at alexmakmcw@gmail.com or my social media below!
 

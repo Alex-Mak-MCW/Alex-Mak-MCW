@@ -1,11 +1,12 @@
+<!--
 <h1 align="center">Hey 👋, I'm Alex!</h1>
 <h2 align="center">Enthusiatic Learner in Data Science, Data Analytics, and Machine Learning</h2>
+-->
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> 
+-->
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-mak-mcw&label=Profile%20views&color=0e75b6&style=flat" alt="alex-mak-mcw" /> </p>
+<!--
 
 - 🌱 I’m currently learning **LLMs, Generative AI, and Cloud Computing**
 
@@ -60,3 +61,77 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex-mak-mcw&show_icons=true&locale=en" alt="alex-mak-mcw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-mak-mcw&" alt="alex-mak-mcw" /></p>
+
+-->
+
+<!--
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> 
+-->
+
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alex+Mak!;" />
+</h1>
+
+# 💫 About Me:
+🌱 I’m currently learning LLMs, Generative AI, and Cloud Computing<br><br>💬 Ask me anything about Python and Data Science<br><br>⚡ Fun fact: I code more effectively with 2 screens than 1 : )<br><br>📫 Reach me at alexmakmcw@gmail.com or my social media below!
+
+<!-- / https://www.linkedin.com/in/alex-mak-824187247/ -->
+
+
+# 🌐 Socials:
+<p align="left">
+<a href="https://linkedin.com/in/alex-mak-824187247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-mak-824187247" height="30" width="40" /></a>
+<a href="https://kaggle.com/alexmakmcw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alexmakmcw" height="30" width="40" /></a>
+</p>
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-mak-824187247)  -->
+
+# 💻 Tech Stack:
+<h3 align="left">Programming Languages:</h3>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+
+<h3 align="left">Data Science & Machine Learning:</h3>
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+<h3 align="left">Database Management Systems:</h3>
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<h3 align="left">Data Visualization Software:</h3>
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+<h3 align="left">Version Control Systems:</h3>
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+<!-- <h3 align="left">APIs:</h3>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  -->
+
+<h3 align="left">Project Management:</h3>
+
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+
+<h3 align="left">Cloud Computing:</h3>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+
+<h3 align="left">Microsoft Suite:</h3>
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Alex-Mak-MCW&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alex-Mak-MCW&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Mak-MCW&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+<!-- [![](https://visitcount.itsvg.in/api?id=Alex-Mak-MCW&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-mak-mcw&label=Profile%20views&color=0e75b6&style=flat" alt="alex-mak-mcw" /> </p>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

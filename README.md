@@ -72,7 +72,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alex+Mak!;" />
 </h1>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-mak-mcw&label=Profile%20views&color=0e75b6&style=flat" alt="alex-mak-mcw" /> </p>
 
 ![Coding](https://preview.redd.it/microsoft-winning-the-ai-war-article-here-v0-cw7o8h6mhojb1.gif?width=480&auto=webp&s=c3a5a6cc0fb39ea33055261bfbfd1f30b17d47ee)
 
@@ -136,7 +136,6 @@
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=Alex-Mak-MCW&icon=0&color=0)](https://visitcount.itsvg.in) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-mak-mcw&label=Profile%20views&color=0e75b6&style=flat" alt="alex-mak-mcw" /> </p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

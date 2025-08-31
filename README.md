@@ -78,7 +78,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning LLMs, Generative AI, and Cloud Computing<br><br>💬 Ask me anything about Python and Data Science<br><br>⚡ Fun fact: I code more effectively with 2 screens than 1 : )<br><br>📫 Reach me at alexmakmcw@gmail.com or my social media below!
+🌱 I’m currently learning LLMs, Generative AI, and Cloud Computing<br><br>💬 Ask me anything about Python and Data Science<br><br>⚡ Fun fact: I code more effectively with 2 screens than 1 :)<br><br>📫 Reach me at alexmakmcw@gmail.com or my social media below!
 
 <!-- / https://www.linkedin.com/in/alex-mak-824187247/ -->
 <br>

@@ -143,7 +143,10 @@
 <!-- light mode -->
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Alex-Mak-MCW&show_icons=true)
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Alex-Mak-MCW&show_icons=true) -->
+
+<!-- Combined Stats -->
+![Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Alex-Mak-MCW)
 
 <!-- Contribution Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Alex-Mak-MCW)
@@ -151,8 +154,6 @@
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Alex-Mak-MCW&layout=compact)
 
-<!-- Combined Stats -->
-![Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Alex-Mak-MCW)
 
 
 
